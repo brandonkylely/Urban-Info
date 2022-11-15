@@ -31,7 +31,7 @@ Ihis video shows the funtions of our websie.
 If you would like assistance with this website or it breaks please feel free to reach out to the following collaborators on GitHub. 
 
 - [Noah Fajarda](https://github.com/noahfajarda)
-- [Brandon Kylely](https://github.com/brandonkylely)
+- [Brandon Ly](https://github.com/brandonkylely)
 - [Logan Senn](https://github.com/Lsenn404)
 - [Ennis Qazza](https://github.com/aqazza) 
 - [April Viramontes](https://github.com/AViramontes)
