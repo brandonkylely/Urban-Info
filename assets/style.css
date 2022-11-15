@@ -179,11 +179,13 @@ span {
 .accordion {
     --bs-accordion-bg: rgba(17, 0, 255, 0.4);
     --bs-accordion-active-bg: white;
+    
 }
 
 .accordion-body {
     /* color: white; */
     font-size: 20px;
+    color: white;
 }
 
 /* style modal */
